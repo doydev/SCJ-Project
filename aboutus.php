@@ -298,7 +298,9 @@
     <section class=" mb-5" id="maps" style="background-color: white;">
       <div class="container">
         <div class="col-md-12">
-          <h5 class="page-title"> Lokasi Kantor</h5>
+           <h3 class="section-title"> Lokasi Kantor</h3>
+            <div class="section-title-divider"></div>
+            <p class="section-description" style="color: #9098ac;font-weight: 600;">Temukan lokasi kami melalui aplikasi google maps</p>
           <div class="maps mt-1">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d31727.327622747987!2d106.8119422508789!3d-6.274781163421903!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x3b2e707671247388!2sMaxx%20Coffee%20Cipete!5e0!3m2!1sid!2sid!4v1611430903548!5m2!1sid!2sid"
