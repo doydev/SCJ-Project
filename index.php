@@ -199,7 +199,7 @@
             </div>
           </div>
         </div>
-        <div class="col-md-4">
+        <div class="col-md-4 mb-5">
           <div class="img-effect">
             <img class="img-fluid creative-img" src="assets/Images/albumss/illustration3.png">
             <div class="creative_img_content">
@@ -210,7 +210,7 @@
         </div>
         
         <!-- KLIK DAFTAR -->
-        <div class="container align-items-center btn-pendaftaran">
+        <div class="container mt-3 align-items-center btn-pendaftaran2">
           <div class="row">
             <div class="col-md-12 col-xs-12 ">
               <a href="mediabelajar.html"><button class="button-ls" style="vertical-align:middle">Lihat
@@ -223,6 +223,39 @@
     </div>
   </section>
 
+  <!-- ======== Instruktur ======== -->
+  <section id="layout" class="section-space creative-demo-section highlight-on-scroll mb-5" >
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-12">
+          <div class="creative-demo-content mt50 mt-5 mb-5">
+            <div class="counting">
+              <h3>
+                Instruktur
+              </h3>
+              <div class="section-title-divider"></div>
+
+            </div>
+            <p>
+              Instruktur pemrograman di sekolah coding jakarta
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+          <div class="col-md-12 mt-3 justify-content-center align-items-center creative-demo-content2">
+              <img class="img-fluid creative-img2" src="assets/Images/albumss/headmaster.jpg" width="240px">
+              <div class="creative_img_content">
+                <a href="team.html"><h6>Alexander Budiyanto S.T., M.T.</h6></a>
+                <p>Instruktur | Headmaster</p>
+              </div>
+          </div>
+    
+      </div>
+    </div>
+  </section>
+ 
   <!-- ======= Banner Section ======= -->
   <section id="subscribe">
     <div class="container wow fadeInUp mb-5">
